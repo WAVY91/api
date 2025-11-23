@@ -3,6 +3,13 @@ const app = express();
 
 const PORT = process.env.PORT || 4000
 
+const cors = require('cors')
+app.use(cors ({
+  origin: 'https://frontendtutor.vercel.app',
+  methods: ['GET', 'POST', 'PUT,', 'DELETE', 'PATCH'],
+  credentials: true
+}))
+
 let allArtists = [
   {
     id: 1,
