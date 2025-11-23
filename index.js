@@ -109,6 +109,10 @@ app.get('/artists', (req, res)=>{
     res.send(allArtists)
 })
 
+app.post('/artists', (req, res)=>{
+    res.send(allArtists)
+})
+
 app.listen(4000, (req, res)=>{
     console.log('app is running on port 4000')
 })
