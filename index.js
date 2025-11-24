@@ -103,6 +103,126 @@ let allArtists = [
     songImg: "https://i.audiomack.com/paraziii-imd/112c9d7427.webp?width=416",
     releaseDate: "September 5, 2025",
   },
+  {
+    id: 11,
+    artistName: 'Seyi Vibez',
+    songTitle: 'Tortoise Mambo',
+    songUrl: 'https://audiomack.com/seyivibezmusic/song/tortoise-mambo-9589364?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/seyivibezmusic/7a2fd959e2.webp?width=416',
+    releaseDate: 'November 13, 2025'
+  },
+  {
+    id: 12,
+    artistName: 'Seyi Vibez',
+    songTitle: 'Fuji House',
+    songUrl: 'https://audiomack.com/seyivibezmusic/song/fuji-house-1059808?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/seyivibezmusic/7a2fd959e2.webp?width=416',
+    releaseDate: 'November 13, 2025'
+  },
+  {
+    id: 13,
+    artistName: 'Seyi Vibez',
+    songTitle: 'Fuji Moto',
+    songUrl: 'https://audiomack.com/seyivibezmusic/song/fuji-moto-6990371?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/seyivibezmusic/7a2fd959e2.webp?width=416',
+    releaseDate: 'November 13, 2025'
+  },
+  {
+    id: 14,
+    artistName: 'Seyi Vibez',
+    songTitle: 'Up',
+    songUrl: 'https://audiomack.com/seyivibezmusic/song/up-7540571?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/seyivibezmusic/7a2fd959e2.webp?width=416',
+    releaseDate: 'November 13, 2025'
+  },
+  {
+    id: 15,
+    artistName: 'Zlatan Ibile',
+    songTitle: 'Demons',
+    songUrl: 'https://audiomack.com/zlatan_ibile/song/demons?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/zlatan_ibile/5a9e082411.webp?width=416',
+    releaseDate: 'October 17, 2025'
+  },
+  {
+    id: 16,
+    artistName: 'Zlatan Ibile',
+    songTitle: 'Paypal',
+    songUrl: 'https://audiomack.com/zlatan_ibile/song/paypal?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/zlatan_ibile/5a9e082411.webp?width=416',
+    releaseDate: 'October 17, 2025'
+  },
+  {
+    id: 17,
+    artistName: 'Zlatan Ibile',
+    songTitle: 'Odeshi',
+    songUrl: 'https://audiomack.com/zlatan_ibile/song/odeshi?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/zlatan_ibile/5a9e082411.webp?width=416',
+    releaseDate: 'October 17, 2025'
+  },
+  {
+    id: 18,
+    artistName: 'Zlatan Ibile',
+    songTitle: 'Alpha & Omega',
+    songUrl: 'https://audiomack.com/zlatan_ibile/song/alpha-omega?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/zlatan_ibile/5a9e082411.webp?width=416',
+    releaseDate: 'October 17, 2025'
+  },
+  { 
+    id: 19,
+    artistName: 'Mavo',
+    songTitle: 'Tumoweto',
+    songUrl: 'https://audiomack.com/mavo1/song/tumo-weto?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/mavok1/be585e6d51.webp?width=416',
+    releaseDate: 'December 1, 2023'
+  },
+  {
+    id: 20,
+    artistName: 'Ckay ft Mavo',
+    songTitle: 'Body',
+    songUrl: 'https://audiomack.com/ckay_yo/song/body-danz-7300867?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/ckay_yo/3c005124ab.webp?width=416',
+    releaseDate: 'October 23, 2025'
+  },
+  {
+    id: 21,
+    artistName: 'Ayomaff',
+    songTitle: 'Tension',
+    songUrl: 'https://audiomack.com/ayomaff/song/tension-0538885?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/ayomaff/b5caa8fa06.webp?width=416',
+    releaseDate: 'November 19, 2025'
+  },
+  {
+    id: 22,
+    artistName: 'Rybeena',
+    songTitle: 'Spaghetti',
+    songUrl: 'https://audiomack.com/rybeena_/song/spaghetti-1860282?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/arewavibes/7bcba9c4f6.webp?width=416',
+    releaseDate: 'October 8, 2025'
+  },
+  {
+    id: 23,
+    artistName: 'Adekunle Gold',
+    songTitle: 'Many People',
+    songUrl: 'https://audiomack.com/adekunlegold/song/many-people-1?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/adekunlegold/9bf803fadf.webp?width=416',
+    releaseDate: 'October 3, 2025'
+  },
+  {
+    id: 24,
+    artistName: 'Fireboy DML',
+    songTitle: 'Dopamine',
+    songUrl: 'https://audiomack.com/fireboydml/song/dopamine-9382749?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/fireboydml/18534363-1.webp?width=416',
+    releaseDate: 'July 23, 2025'
+  },
+  {
+    id: 25,
+    artistName: 'Balloranking',
+    songTitle: 'Jungle',
+    songUrl: 'https://audiomack.com/badboyranking/song/jungle-0114564?share-user-id=20481394',
+    songImg: 'https://i.audiomack.com/badboyranking/9610049eaa.webp?width=416',
+    releaseDate: 'November 21, 2025'
+  },
 ];
 
 app.get('/artists', (req, res)=>{
